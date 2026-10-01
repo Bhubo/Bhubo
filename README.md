@@ -1,35 +1,24 @@
-# Hi, I'm Terence Clark Jr.
+# Hi, I'm Terence Clark Jr. 👋
 
-**Low Voltage & Security Systems Technician | Data Center Hardware | Army National Guard Veteran**
-📍 Richmond, TX (Houston area)
+Indie developer and longtime computer tech from the Houston area.
 
-I've been doing low voltage work since I was 16: security cameras, access control, network cabling, and fiber. Today I also run the NVRs and Proxmox containers behind a 40-camera security system, and I build and run my own homelab on Linux.
+## 🎮 What I'm building
 
-## 🔧 What I work with
+- **A solo-developed MMO**: C++ server core, custom dev tools, and an Android client
+- **Embedded and robotics projects**: an autonomous rover, microcontroller builds (Arduino, ESP32, PlatformIO)
+- **Automation tools**: Python scripts and a JavaScript browser extension that automate repetitive work
 
-| Area | Tools and skills |
-|---|---|
-| Security systems | IP and analog CCTV, DVR/NVR setup, Lenel integration |
-| Access control | Maglocks, electric strikes, REX, intercoms (DKS, BMX, PDK, Cellgate, Brivo), gate operators |
-| Cabling | Cat5e and structured cabling, fiber installs, labeling, clean cable management |
-| Networking | LAN, wireless, TCP/IP |
-| Systems | Linux (Debian and niche distros), Proxmox VE, Windows, macOS, backup and restore |
-| Hardware | Troubleshooting and problem replication, repair, disassembly and rebuild, preventive maintenance |
+Most of my repos are private while the work is in progress.
 
-## 🖥️ Homelab
+## 🛠️ Languages and tools
 
-I run a personal lab on microservers and single-board computers using a range of Linux distributions, which is where I practice virtualization, updates, and backup and recovery.
+C++ · C · Python · Kotlin · TypeScript / JavaScript · Visual Studio · Android Studio · Unreal Engine · Blender · KiCad · Fusion 360
 
-## 🎖️ Background
+## 💻 Computer background
 
-- **Security Officer**, Allied Universal (2022 to present): manage camera NVRs and Proxmox containers
-- **Low Voltage Technician**, family business (Akron, OH and Houston, TX): 30+ camera systems installed and networked
-- **Computer Repair Technician**, Clarktel Communications (2012 to 2016)
-- **91B Wheeled Vehicle Mechanic**, Ohio Army National Guard (2015 to 2023)
-- Eagle Scout
-
-## 🎯 Looking for
-
-Low Voltage Technician, Security Systems Technician, and Data Center Technician roles in the Houston area.
+- 4 years as a computer repair technician: hundreds of Windows, Mac, Linux, and ChromeOS machines, from diagnostics to full rebuilds
+- Run Linux servers and Proxmox virtualization, at work and in my own homelab
+- Networking and hardware from years of low voltage installs
+- Army National Guard veteran
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Terence%20Clark%20Jr.-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/terence-clark-jr-212a6b43b/)
