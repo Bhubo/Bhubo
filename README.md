@@ -16,9 +16,9 @@ C++ · C · Python · Kotlin · TypeScript / JavaScript · Visual Studio · Andr
 
 ## 💻 Computer background
 
-- 4 years as a computer repair technician: hundreds of Windows, Mac, Linux, and ChromeOS machines, from diagnostics to full rebuilds
+- PC repair and Apple repair technician: hundreds of Windows, Mac, Linux, and ChromeOS machines, from diagnostics to full rebuilds
 - Run Linux servers and Proxmox virtualization, at work and in my own homelab
-- Networking and hardware from years of low voltage installs
+- Networking and hardware from years of telecom and low voltage installs
 - Army National Guard veteran
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Terence%20Clark%20Jr.-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/terence-clark-jr-212a6b43b/)
